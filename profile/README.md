@@ -23,7 +23,9 @@
 | [McLogs-Next-API](https://github.com/NingZeStudio/McLogs-Next-API) | Headless API 主服务 |
 | [McLogs-Next-UI](https://github.com/NingZeStudio/McLogs-Next-UI) | 官方开源的Web UI |
 
-
+**🔹 ParaOre-UI**
+> 一款基于 Mojang OreUI 设计语言的 Sass/CSS 组件库  
+- Github: [NingZeStudio/ParaOre-UI](https://github.com/NingZeStudio/ParaOre-UI)
 <!--
 
 **Here are some ideas to get you started:**
